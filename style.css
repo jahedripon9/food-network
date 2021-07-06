@@ -9,26 +9,23 @@ img {
 .d-flex {
   display: flex;
 }
-.menu{
-    padding: 28px 7px;
-    
+.menu {
+  padding: 28px 7px;
 }
-.menu ul{
-   margin-top: 10px ;
+.menu ul {
+  margin-top: 10px;
 }
-.menu li{
-    list-style: none;
-    padding-left: 2%;
+.menu li {
+  list-style: none;
+  padding-left: 2%;
 }
-.menu a{
-    text-decoration: none;
-    color:#111;
-    font-size: 18px;
-    border: 2px solid;
-    padding: 5px 20px;
-    border-radius: 20px;
-
-
+.menu a {
+  text-decoration: none;
+  color: #111;
+  font-size: 18px;
+  border: 2px solid;
+  padding: 5px 20px;
+  border-radius: 20px;
 }
 .main-section {
   background-image: url(img/shapes/Frame\ 57.jpg);
@@ -86,7 +83,7 @@ img {
 .about-items {
 }
 .about-photo {
-  width: 60%;
+  width: 66%;
   padding-right: 10%;
   padding-top: 5%;
 }
@@ -110,94 +107,94 @@ img {
 
 /* -----------------------My Recipies ------------------ */
 .recipies {
-    text-align: center;
-    margin-top: -4%;
+  text-align: center;
+  margin-top: -4%;
 }
-.recipies h1{
-    font-family: "Zen Loop", cursive;
-    font-size: 50px;
-    color: orange;
+.recipies h1 {
+  font-family: "Zen Loop", cursive;
+  font-size: 50px;
+  color: orange;
 }
 .recipies p {
-    font-family: "Roboto", sans-serif;
-    font-size: 16px;
-    width: 50%;
-    margin: 2% auto;
+  font-family: "Roboto", sans-serif;
+  font-size: 16px;
+  width: 50%;
+  margin: 2% auto;
 }
 
 /* -----------------------Card Section------------------ */
-.card-section{
-    margin-bottom: 8%;
+.card-section {
+  margin-bottom: 8%;
 }
-.card-items{
-    padding-left: 50px;
-    padding-right: 50px;
+.card-items {
+  padding-left: 50px;
+  padding-right: 50px;
 }
 .card01 {
-    width: 28%;
-    padding-top: 15px;
-    padding-right: 2%;
-    padding-left: 2%;
-    border-radius: 15px;
-    margin: 20px;
-    box-shadow: -2px 0px 15px 5px rgb(0 0 0 / 33%);
+  width: 28%;
+  padding-top: 15px;
+  padding-right: 2%;
+  padding-left: 2%;
+  border-radius: 15px;
+  margin: 20px;
+  box-shadow: -2px 0px 15px 5px rgb(0 0 0 / 33%);
 }
-.card01 h2{
-    font-family: "Roboto", sans-serif;
+.card01 h2 {
+  font-family: "Roboto", sans-serif;
 }
-.card01 p{
-    font-family: "Roboto", sans-serif;
-    line-height: 25px;
-    font-size: 18px;
+.card01 p {
+  font-family: "Roboto", sans-serif;
+  line-height: 25px;
+  font-size: 18px;
 }
 
 /* -------------------- Views Section ----------------------- */
-.views-section{
-    margin-bottom: 5%;
+.views-section {
+  margin-bottom: 5%;
 }
-.views-items{
-    margin: 20px 70px;
-    border-radius: 15px;
-    box-shadow: -2px 0px 15px 5px rgb(0 0 0 / 33%);
-    text-align: center;
+.views-items {
+  margin: 20px 70px;
+  border-radius: 15px;
+  box-shadow: -2px 0px 15px 5px rgb(0 0 0 / 33%);
+  text-align: center;
 }
-.view1{
-    width: 30%;
-    padding-left: 10%;
-    padding-right: 10%;
+.view1 {
+  width: 30%;
+  padding-left: 10%;
+  padding-right: 10%;
 }
 .view1 h1 {
-    font-family: "Roboto", sans-serif;
-    font-size: 40px;
+  font-family: "Roboto", sans-serif;
+  font-size: 40px;
 }
 .view1 p {
-    font-family: "Roboto", sans-serif;
-    font-size: 14px;
-    margin-top: -29px;
+  font-family: "Roboto", sans-serif;
+  font-size: 14px;
+  margin-top: -29px;
 }
 
 /* -------------------- Footer Section ----------------------- */
 
-.footer-section{
-    width: 100%;
-    height: 100%;
-    background: #111;
-    padding: 15px;
-    }    
+.footer-section {
+  width: 100%;
+  height: 100%;
+  background: #111;
+  padding: 15px;
+}
 
-.footer{
-    color: #fff;
-    text-align:center
+.footer {
+  color: #fff;
+  text-align: center;
 }
-.footer h1{
-    font-family: "Zen Loop", cursive;
-    font-size: 50px;
-    margin-bottom: 10px;
+.footer h1 {
+  font-family: "Zen Loop", cursive;
+  font-size: 50px;
+  margin-bottom: 10px;
 }
-.footer p{
-    font-family: "Roboto", sans-serif;
-    font-size: 16px;
+.footer p {
+  font-family: "Roboto", sans-serif;
+  font-size: 16px;
 }
-.footer span{
-    color: orange;
+.footer span {
+  color: orange;
 }
