@@ -65,6 +65,7 @@ img {
   border-radius: 50px;
 }
 .main-button {
+  font-family: "Roboto", sans-serif;
   font-size: 18px;
   color: #fff;
   padding: 10px 20px;
